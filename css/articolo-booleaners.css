@@ -7,4 +7,10 @@
 .sfondo-logo{
    background-image: url(../img/pattern.png);
    background-color: aqua;
+   height: 175px;
+}
+
+.dimensioni-logo{
+   width: 300px;
+   padding-top: 70px;
 }
