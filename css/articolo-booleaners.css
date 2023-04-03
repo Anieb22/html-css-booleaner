@@ -4,6 +4,14 @@
    box-sizing: border-box;
 }
 
+.contenitore{
+   width: 200px;
+}
+
+.padding-contenitore{
+   padding-top: 20px;
+}
+
 /*Classi Header*/
 .sfondo-logo{
    background-image: url(../img/pattern.png);
