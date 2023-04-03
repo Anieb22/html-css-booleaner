@@ -4,6 +4,7 @@
    box-sizing: border-box;
 }
 
+/*Classi Header*/
 .sfondo-logo{
    background-image: url(../img/pattern.png);
    background-color:#4EA0FF ;
@@ -13,4 +14,26 @@
 .dimensioni-logo{
    width: 300px;
    padding-top: 70px;
+}
+
+/*Classi Main*/
+.dimensione-titolo{
+   font-size: 70px;
+   font-weight: 700;
+}
+
+.colore-descrizione{
+   color: #7F7F7F;
+}
+
+.dimensione-descrizione{
+   font-size: 30px;
+}
+
+.colore-giornale{
+   color:#4EA0FF
+}
+
+.dimensione-data{
+   font-size: larger;
 }
