@@ -50,6 +50,24 @@
    font-size: larger;
 }
 
-ul.a{
-   list-style: circle;
+ul{
+   list-style-type: disc outside none;
+}
+
+/*Classi tabella*/
+table{
+   border-collapse: collapse;
+   table-layout: fixed;
+   text-align: left;
+   width:1680px;
+   margin-top: 20px;
+}
+
+.colore-riga-head{
+   background-color: rgb(0, 153, 255);
+   color:white;
+}
+
+.colore-riga-corpo{
+   background-color: #b3d6ff;
 }
