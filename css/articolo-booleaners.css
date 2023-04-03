@@ -12,6 +12,10 @@
    padding-top: 20px;
 }
 
+.evidenziamento-giallo{
+   background-color: yellow;
+}
+
 /*Classi Header*/
 .sfondo-logo{
    background-image: url(../img/pattern.png);
@@ -44,4 +48,8 @@
 
 .dimensione-data{
    font-size: larger;
+}
+
+ul.a{
+   list-style: circle;
 }
