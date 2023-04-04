@@ -59,7 +59,7 @@ table{
    border-collapse: collapse;
    table-layout: fixed;
    text-align: left;
-   width:1680px;
+   width:1780px;
    margin-top: 20px;
 }
 
@@ -70,4 +70,21 @@ table{
 
 .colore-riga-corpo{
    background-color: #b3d6ff;
+}
+
+/*classi footer*/
+.immagine-background-1{
+   background-image: url(../img/monitor.jpg);
+   background-size: contain;
+   color: white;
+   width: 312px;
+   height: 208px;
+}
+
+.immagine-background-2{
+   background-image: url(../img/graph.jpg);
+   background-size: contain;
+   color: white;
+   width: 312px;
+   height: 208px;
 }
