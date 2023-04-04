@@ -5,7 +5,8 @@
 }
 
 .contenitore{
-   width: 200px;
+   margin: 50px;
+   margin-top: 0px;
 }
 
 .margin-contenitore{
@@ -59,13 +60,13 @@ header{
 /*Classi tabella*/
 table{
    border-collapse: collapse;
-   table-layout: fixed;
    text-align: left;
    margin-top: 20px;
 }
 
 .dimensione-colonna{
-   width: 100px;
+   width: 50%;
+   padding:10px;
 }
 
 .colore-riga-head{
